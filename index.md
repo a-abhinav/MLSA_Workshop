@@ -2,5 +2,5 @@
 ---
 ***
 
-| **Contributors** | **GitHub Profile** | **E-mail Address** | **Take away from the session** |  
+| Contributors | GitHub Profile | E-mail Address | Take away from the session |  
 | - | - | - | - | 
