@@ -7,6 +7,6 @@
 {% include kritika.md %}  
 {% include atul.md %}  
 {% include neo.md %}  
-{% inclue joel.md %}
+{% include joel.md %}
 
 
