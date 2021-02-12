@@ -1,1 +1,1 @@
-| Neo | (Tryksha)[https://github.com/Tryksha] | neo@jio.com | Something new |
+| Neo | [Tryksha](https://github.com/Tryksha) | neo@jio.com | Something new |
