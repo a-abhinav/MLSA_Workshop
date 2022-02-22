@@ -1,2 +1,3 @@
 hello there,
 file for checking the merge conflict.
+during merging branch of branch
