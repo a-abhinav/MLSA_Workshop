@@ -1,0 +1,2 @@
+hello there,
+file for checking the merge conflict.
